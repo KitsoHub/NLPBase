@@ -108,7 +108,7 @@ We invite:
 
 Let’s co-create NLP tools that reflect **who we are**, not just who the internet assumes we are.
 
-💬 Contact: [kitso.ai@example.com](mailto:kitso.ai@example.com)  
+💬 Contact: [kitso.ai@example.com](mailto:kitso.ai@gmail.com)  
 🐙 GitHub: [github.com/kitso-ai/NLPBase](https://github.com/kitso-ai/NLPBase)  
 🔖 Citation: Use the DOI when referencing our datasets or models.
 
